@@ -30,13 +30,14 @@
 
 | | |
 |---|---|
+| ⚙️ **[Cobalt](https://github.com/JustMarkDev/cobalt)** · [site](https://cobaltforge.dev) | Source-available, agent-native git forge. TanStack Start + Convex, git storage on code.storage. One registry of operations drives the HTTP API, OpenAPI docs, a generated TypeScript SDK and a CLI with an MCP server. Bun workspace, OpenTelemetry tracing. |
 | 🎵 **[Music Companion](https://github.com/JustMarkDev/music-companion)** · [site](https://music-companion-orcin.vercel.app) | Transparent always-on-top lyrics overlay for Windows and macOS (Tauri + Rust). Follows whatever is playing, queries three lyric providers in parallel and lights up each word in time with the song. Signed auto-updater, dual-OS CI, 130+ tests. |
 | 🎭 **[Sergio Procopio](https://github.com/JustMarkDev/sergio-procopio)** · [live](https://sergioprocopio.it) | Website for a theatre company, replacing a WordPress setup. Astro, React islands and a Git-based CMS, so content updates need no code. **100/100 PageSpeed**, contact form on Astro Actions + Resend, custom domain and email DNS configured. |
 | 🗺 **[Satisfactory Start Optimizer](https://github.com/JustMarkDev/satisfactory-start-optimizer)** | Multi-objective start-location search over ~9,000 map nodes. Rust + Rayon solves the full map in **~16 ms**. CLI, API and web dashboard. |
-| 🗂 **Database Contatti** *(private)* | Local Tauri + Rust + SQLite app managing a ~15 GB, 335k-contact database: multi-format import, full-text search in ~6 ms, 400+ automated tests. |
+| 🗂 **[Database Contatti](https://github.com/JustMarkDev/database-contatti)** | Local Tauri + Rust + SQLite app managing a ~15 GB, 335k-contact database: multi-format import, full-text search in ~6 ms, 400+ automated tests. |
 | 🌐 **[Portfolio](https://github.com/JustMarkDev/marco-procopio)** · [live](https://marco-procopio.vercel.app) | Next.js 16, Tailwind v4, WebGL dither art, English and Italian from the same URL. |
 
 ## 📍 Currently
 
-- 🔎 Open to **EU-remote** junior roles
+- 🟢 **Open for work** · EU-remote junior roles
 - 🇮🇹 Based in Milan · 🗣 English C2, Italian native
