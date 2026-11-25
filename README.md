@@ -28,16 +28,34 @@
 
 ## 🚀 Projects
 
-| | |
-|---|---|
-| ⚙️ **[Cobalt](https://github.com/JustMarkDev/cobalt)** · [site](https://cobaltforge.dev) | Source-available, agent-native git forge. TanStack Start + Convex, git storage on code.storage. One registry of operations drives the HTTP API, OpenAPI docs, a generated TypeScript SDK and a CLI with an MCP server. Bun workspace, OpenTelemetry tracing. |
-| 🎵 **[Music Companion](https://github.com/JustMarkDev/music-companion)** · [site](https://music-companion-orcin.vercel.app) | Transparent always-on-top lyrics overlay for Windows and macOS (Tauri + Rust). Follows whatever is playing, queries three lyric providers in parallel and lights up each word in time with the song. Signed auto-updater, dual-OS CI, 130+ tests. |
-| 🎭 **[Sergio Procopio](https://github.com/JustMarkDev/sergio-procopio)** · [live](https://sergioprocopio.it) | Website for a theatre company, replacing a WordPress setup. Astro, React islands and a Git-based CMS, so content updates need no code. **100/100 PageSpeed**, contact form on Astro Actions + Resend, custom domain and email DNS configured. |
-| 🗺 **[Satisfactory Start Optimizer](https://github.com/JustMarkDev/satisfactory-start-optimizer)** | Multi-objective start-location search over ~9,000 map nodes. Rust + Rayon solves the full map in **~16 ms**. CLI, API and web dashboard. |
-| 🗂 **[Database Contatti](https://github.com/JustMarkDev/database-contatti)** | Local Tauri + Rust + SQLite app managing a ~15 GB, 335k-contact database: multi-format import, full-text search in ~6 ms, 400+ automated tests. |
-| 🌐 **[Portfolio](https://github.com/JustMarkDev/marco-procopio)** · [live](https://marco-procopio.vercel.app) | Next.js 16, Tailwind v4, WebGL dither art, English and Italian from the same URL. |
+<table>
+  <tr>
+    <td>⚙️ <a href="https://github.com/JustMarkDev/cobalt"><b>Cobalt</b></a> · <a href="https://cobaltforge.dev">site</a></td>
+    <td>Source-available, agent-native git forge. TanStack Start + Convex, git storage on code.storage. One registry of operations drives the HTTP API, OpenAPI docs, a generated TypeScript SDK and a CLI with an MCP server. Bun workspace, OpenTelemetry tracing.</td>
+  </tr>
+  <tr>
+    <td>🎵 <a href="https://github.com/JustMarkDev/music-companion"><b>Music Companion</b></a> · <a href="https://music-companion-orcin.vercel.app">site</a></td>
+    <td>Transparent always-on-top lyrics overlay for Windows and macOS (Tauri + Rust). Follows whatever is playing, queries three lyric providers in parallel and lights up each word in time with the song. Signed auto-updater, dual-OS CI, 130+ tests.</td>
+  </tr>
+  <tr>
+    <td>🎭 <a href="https://github.com/JustMarkDev/sergio-procopio"><b>Sergio Procopio</b></a> · <a href="https://sergioprocopio.it">live</a></td>
+    <td>Website for a theatre company, replacing a WordPress setup. Astro, React islands and a Git-based CMS, so content updates need no code. <b>100/100 PageSpeed</b>, contact form on Astro Actions + Resend, custom domain and email DNS configured.</td>
+  </tr>
+  <tr>
+    <td>🗺 <a href="https://github.com/JustMarkDev/satisfactory-start-optimizer"><b>Satisfactory Start Optimizer</b></a></td>
+    <td>Multi-objective start-location search over ~9,000 map nodes. Rust + Rayon solves the full map in <b>~16 ms</b>. CLI, API and web dashboard.</td>
+  </tr>
+  <tr>
+    <td>🗂 <a href="https://github.com/JustMarkDev/database-contatti"><b>Database Contatti</b></a></td>
+    <td>Local Tauri + Rust + SQLite app managing a ~15 GB, 335k-contact database: multi-format import, full-text search in ~6 ms, 400+ automated tests.</td>
+  </tr>
+  <tr>
+    <td>🌐 <a href="https://github.com/JustMarkDev/marco-procopio"><b>Portfolio</b></a> · <a href="https://marco-procopio.vercel.app">live</a></td>
+    <td>Next.js 16, Tailwind v4, WebGL dither art, English and Italian from the same URL.</td>
+  </tr>
+</table>
 
 ## 📍 Currently
 
-- 🟢 **Open for work** · EU-remote junior roles
+- 🟢 **Open for work**
 - 🇮🇹 Based in Milan · 🗣 English C2, Italian native
